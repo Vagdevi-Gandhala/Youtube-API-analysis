@@ -23,8 +23,10 @@ https://developers.google.com/youtube/v3/docs/channels/list?apix=true
 For obtaining channel id of a specific channel, go to youtube and follow steps below.
 
 ![Screenshot (53)](https://user-images.githubusercontent.com/111446453/185879908-c1a88dee-a259-468c-a3f1-d19e4e45589d.png)
-Click ctrl+u to open a new tab with source code
-Next click ctrl+f to find itemprop="channelId"  
+Click **ctrl+u** to open a new tab with source code
+
+
+Next click **ctrl+f** to find itemprop="channelId"  
 copy the value stored in content variable with key equal to itemprop="channelId"
 then store it in a variable
 
