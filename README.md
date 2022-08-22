@@ -29,3 +29,11 @@ copy the value stored in content variable with key equal to itemprop="channelId"
 # Exploratory data Analysis
 
 
+## Best performing videos
+
+![Screenshot (55)](https://user-images.githubusercontent.com/111446453/185881753-744cea0a-d386-4e82-9705-fd95e00f77f4.png)
+## Worst performing videos
+![Screenshot (56)](https://user-images.githubusercontent.com/111446453/185881613-615ce17c-2d9b-4765-b2c0-1adb6a6a99c5.png)
+
+## Likes vs Views
+![Screenshot (57)](https://user-images.githubusercontent.com/111446453/185881792-b9c03223-8891-439f-af10-669e5b504e15.png)
