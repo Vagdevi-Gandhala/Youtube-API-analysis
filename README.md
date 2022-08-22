@@ -10,9 +10,10 @@ Analysing the youtube channel Andrew Huberman to extract keywords from high perf
 Data APIs are a great source of data for data analytics projects. In this readme, I'm walking you step by step through the process of retrieving video data and channel data using Youtube Data API.
 # Obtaining Youtube developer key
 # Obtaining  Channel Id from source code 
-![Screenshot (53)](https://user-images.githubusercontent.com/111446453/185878800-8c91ac30-bf99-4575-bf59-19e515f39998.png)
 
-Click ctrl+u to open a new tab with source code
+
+Click ctrl+u to open a new tab with source code![Screenshot (53)](https://user-images.githubusercontent.com/111446453/185879908-c1a88dee-a259-468c-a3f1-d19e4e45589d.png)
+
 Next click ctrl+f to find itemprop="channelId"  
 copy the value stored in content variable with key equal to itemprop="channelId"
 
