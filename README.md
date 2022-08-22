@@ -18,3 +18,6 @@ Data APIs are a great source of data for data analytics projects. In this readme
 ![Screenshot (50)](https://user-images.githubusercontent.com/111446453/185731070-7a40bf64-a050-4b60-aaae-39e628f74140.png)
 # Data Pre-processing
 
+# Exploratory data Analysis
+
+
