@@ -12,8 +12,8 @@ Data APIs are a great source of data for data analytics projects. In this readme
 # Obtaining  Channel Id from source code 
 
 
-Click ctrl+u to open a new tab with source code![Screenshot (53)](https://user-images.githubusercontent.com/111446453/185879908-c1a88dee-a259-468c-a3f1-d19e4e45589d.png)
-
+![Screenshot (53)](https://user-images.githubusercontent.com/111446453/185879908-c1a88dee-a259-468c-a3f1-d19e4e45589d.png)
+Click ctrl+u to open a new tab with source code
 Next click ctrl+f to find itemprop="channelId"  
 copy the value stored in content variable with key equal to itemprop="channelId"
 
