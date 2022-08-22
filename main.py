@@ -10,7 +10,7 @@ import matplotlib.ticker as ticker
 
 
 # copy the api key generated in google cloud services
-api_key = 'AIzaSyBBxURD5xXthseVM3K5pBlmqk1kjwxkKfA'
+api_key = '' #YOUR GOOGLE API KEY HERE
 channel_id = 'UCm4E1b5TjstT8UUIk7mb-MA'
  
 
