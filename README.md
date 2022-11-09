@@ -4,8 +4,9 @@ Analysing the youtube channel Andrew Huberman to extract keywords from high perf
 
 
 
+![Expolatory- data analysis](https://user-images.githubusercontent.com/111446453/200786109-90dd9f37-3bd7-4357-b872-0894e2f7e81f.png)
 
-![Untitled design(1)](https://user-images.githubusercontent.com/111446453/185779918-c6f02eaa-b2a0-4069-b154-58ce65212562.png)
+
 # Overview
 Data APIs are a great source of data for data analytics projects. In this readme, I'm walking you step by step through the process of retrieving video data and channel data using Youtube Data API.
 
